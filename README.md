@@ -178,3 +178,12 @@ _Nota: A imagem acima representa a ilustração conceitual ou foto do equipament
 *   Coleta de feedback dos usuários para futuras melhorias.
 
 <img width="1189" height="662" alt="Captura de tela 2025-11-26 111859" src="https://github.com/user-attachments/assets/956ffbe9-c3a4-4739-b735-b18070ef3def" />
+
+## 8. XII Feira  de soluções 
+<img width="914" height="512" alt="Captura de tela 2025-11-26 120516" src="https://github.com/user-attachments/assets/e8b37358-617b-464d-8ba0-f6646037258d" />
+<img width="918" height="513" alt="Captura de tela 2025-11-26 120452" src="https://github.com/user-attachments/assets/c3c96920-6d85-4f23-bae1-f9fd079f5c98" />
+<img width="916" height="515" alt="Captura de tela 2025-11-26 120551" src="https://github.com/user-attachments/assets/2a82f443-8997-46fa-8e3e-e47606c28933" />
+<img width="913" height="512" alt="Captura de tela 2025-11-26 120610" src="https://github.com/user-attachments/assets/22d6dc1e-9952-4404-b0d4-d3f7dc6260cd" />
+<img width="914" height="512" alt="Captura de tela 2025-11-26 120625" src="https://github.com/user-attachments/assets/d93fd80e-79ae-465a-a054-ea3599cd14cc" />
+<img width="908" height="511" alt="Captura de tela 2025-11-26 120701" src="https://github.com/user-attachments/assets/8f7e613c-db80-405b-8b07-8e92dd8fc318" />
+<img width="911" height="511" alt="Captura de tela 2025-11-26 120643" src="https://github.com/user-attachments/assets/175b6cca-14d7-4ecf-916a-f558b6aa04b2" />
