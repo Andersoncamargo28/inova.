@@ -7,6 +7,9 @@ Este repositório documenta as melhorias propostas e implementadas no projeto de
 ## TEAM 
 <img width="1185" height="645" alt="Captura de tela 2025-11-26 092427" src="https://github.com/user-attachments/assets/0070900a-61cc-48c9-ba11-17a96b26064e" />
 
+## Matriz de responsabilidades
+<img width="1186" height="654" alt="Captura de tela 2025-11-26 122218" src="https://github.com/user-attachments/assets/eb62b31d-73d0-4014-87bf-7f25565c52ce" />
+
 ## LINK YOUTUB SPRINT 1
 https://youtu.be/F2NRJu3voaY?feature=shared
 ##  LINK YOUTUB SPRINT 2
